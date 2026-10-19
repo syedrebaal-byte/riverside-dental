@@ -1,0 +1,8 @@
+{
+  "name": "Riverside Dental | Modern Aesthetic & Implant Dentistry",
+  "description": "Jacksonville's premier dental practice on Riverside Avenue. World-class restorative, cosmetic smile design, dental implants, and sedation dentistry with Dr. Michael Spencer, Dr. Adam Cohlmia, and team.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
